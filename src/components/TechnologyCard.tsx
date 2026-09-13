@@ -16,7 +16,7 @@ function TechnologyCard({
   addToStack,
 }: TechnologyCardProps) {
   return (
-    <div className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm">
+    <div className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition hover:bg-gray-200">
       
       <div className="mb-4 flex items-center justify-between">
         <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-gray-100 text-xl">

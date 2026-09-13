@@ -35,7 +35,7 @@ function Hero() {
 
         <div className="flex justify-center md:w-1/2">
           <img
-            src="/hero.png"
+            src="/src/assets/banner-stack.png"
             alt="Development stack illustration"
             className="w-64 sm:w-72 md:w-80"
           />
