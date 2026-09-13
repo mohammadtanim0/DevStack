@@ -76,4 +76,19 @@ dev-stack/
 ├── package.json
 ├── vite.config.js
 └── README.md 
-
+React question:
+1.What is JSX, and why is it used in React?
+-JSX(javascript XML).
+-It's use it for makes code easier to read.
+2.What is the difference between props and state?
+-Props is data passed from parent to child.And State is data manage inside a component.
+3.What does the useState hook do, and where did you use it in this project?
+-useState is a React Hook used to create and manage changing data inside a component.
+4.What does the useEffect hook do, and why did you need it to load the JSON data?
+-useEffect is used to perform side effects in a React component.
+5.Why does every item in a .map() list need a unique key prop?
+-Without a proper key, React gives a warning and may have difficulty efficiently updating the list
+6.What is conditional rendering? Show one place you used it.
+-Conditional rendering means displaying different UI depending on a condition.
+7.How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
+-A parent sends data to a child using props.
