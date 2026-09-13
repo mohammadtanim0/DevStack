@@ -20,7 +20,7 @@ function Navbar() {
           href="#"
           className="flex items-center gap-2 md:order-1"
         >
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 text-xs font-bold text-white">
+          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-linear-to-r from-purple-500 to-pink-500 text-xs font-bold text-white">
             DS
           </div>
 
@@ -73,7 +73,7 @@ function Navbar() {
             Sign In
           </button>
 
-          <button className="rounded-full bg-gradient-to-r from-orange-500 to-pink-500 px-5 py-2 text-sm font-semibold text-white transition hover:opacity-90">
+          <button className="rounded-full bg-linear-to-r from-orange-500 to-pink-500 px-5 py-2 text-sm font-semibold text-white transition hover:opacity-90">
             Sign Up
           </button>
         </div>
@@ -84,7 +84,7 @@ function Navbar() {
             Sign In
           </button>
 
-          <button className="rounded-full bg-gradient-to-r from-orange-500 to-pink-500 px-3 py-1.5 text-xs font-semibold text-white">
+          <button className="rounded-full bg-linear-to-r from-orange-500 to-pink-500 px-3 py-1.5 text-xs font-semibold text-white">
             Sign Up
           </button>
         </div>

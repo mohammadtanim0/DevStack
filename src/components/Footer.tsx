@@ -9,7 +9,7 @@ function Footer() {
           {/* Brand */}
           <div className="md:col-span-1">
             <div className="flex items-center gap-2">
-              <div className="flex h-7 w-7 items-center justify-center rounded-md bg-gradient-to-r from-purple-500 to-pink-500 text-[10px] font-bold text-white">
+              <div className="flex h-7 w-7 items-center justify-center rounded-md bg-linear-to-r from-purple-500 to-pink-500 text-[10px] font-bold text-white">
                 DS
               </div>
 
